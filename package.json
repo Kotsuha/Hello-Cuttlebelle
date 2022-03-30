@@ -1,0 +1,19 @@
+{
+  "name": "hello-cuttlebelle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cuttlebelle": {
+    "folder": {
+      "site": "anotherfolder"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cuttlebelle": "^1.0.0-alpha.77"
+  }
+}
